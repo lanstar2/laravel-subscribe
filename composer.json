@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "^9.0|^9.1"
+        "laravel/framework": "^9.*"
     },
     "autoload": {
         "psr-4": {
